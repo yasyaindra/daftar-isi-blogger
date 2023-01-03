@@ -5,5 +5,5 @@ Script sederhana untuk membuat Daftar Isi pada tulisan di Blogger. Contoh bisa d
 ### How To Use
 
 1. Letakkan `<div class="content"></div>` di urutan postingan yang diinginkan
-2. Lalu copy script dari file script.js di paling bawah postingan (postingan blog dalam mode `compose`)
+2. Lalu copy script dari file script.js di paling bawah postingan (postingan blog dalam mode `HTML View`)
 3. Selesai
